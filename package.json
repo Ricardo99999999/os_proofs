@@ -1,0 +1,31 @@
+{
+  "name": "os_proofs",
+  "version": "1.0.0",
+  "description": "Extended library from OS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricardo99999999/os_proofs.git"
+  },
+  "keywords": [
+    "os",
+    "npm",
+    "utilities"
+  ],
+  "author": "Osiris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ricardo99999999/os_proofs/issues"
+  },
+    "devDependencies": {
+    "eslint": "^9.32.0",
+    "standard":"^17.0.0"
+  },
+    "eslintConfig": {
+    "extends":"./node_modules/standard/eslintrc.json"
+    },
+  "homepage": "https://github.com/Ricardo99999999/os_proofs#readme"
+}
