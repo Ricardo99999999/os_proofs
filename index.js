@@ -1,4 +1,4 @@
-const os = require('node:os')
+const os = require('node:os') //OS import
 
 console.log('Information about the machine')
 console.log('The architecture from the machine is', os.arch())
